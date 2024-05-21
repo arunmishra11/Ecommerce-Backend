@@ -34,4 +34,9 @@ DELETE by category id:
 
 <img width="620" alt="image" src="https://github.com/arunmishra11/Ecommerce-Backend/assets/156019606/23d62afa-3816-4306-88a0-a822bb015648">
 
+   All other pages for products and tags can be found on the video walkthrough.
+
+   **Video walkthrough link**
+
+   https://github.com/arunmishra11/Ecommerce-Backend
    

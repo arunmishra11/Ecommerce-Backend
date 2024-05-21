@@ -38,5 +38,9 @@ DELETE by category id:
 
    **Video walkthrough link**
 
+   https://drive.google.com/file/d/1JorC1gLsCb0wxWiTlX8HbUQCjYFIRm4s/view
+
+   **Github Repo**
+
    https://github.com/arunmishra11/Ecommerce-Backend
    
